@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>慶祝中華隊完封日本隊睽違32年奪冠</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #0046ad;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        article {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .author {
+            font-size: 0.9em;
+            color: #666;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            text-align: center;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>慶祝中華隊完封日本隊！睽違32年奪冠 賴清德總統宣布明日全國放假一天</h1>
+</header>
+
+<article>
+    <p class="author">發佈日期：2024年11月24日</p>
+
+    <p>中華隊於2024年國際棒球經典賽中，以<strong>4:0</strong>完封強敵日本隊，成功奪下睽違32年的冠軍！這場比賽展現了中華隊投打兩端的完美配合，投手群壓制力驚人，而打線的連續安打及策略性進攻更是令人拍案叫絕。</p>
+
+    <p>賽後，賴清德總統在社群媒體上發文表示：「這是一場經典之戰，象徵台灣棒球精神的榮耀！為了讓國人共同慶祝這份喜悅，政府決定明日全國放假一天！」</p>
+
+    <p>消息一出，立即掀起全國熱烈討論，網友笑稱：「這假一定要放！」、「不僅贏了比賽，更贏了假期！」此外，賽後台灣主要城市如台北、高雄等地的棒球迷更自發性走上街頭慶祝，形成一片歡騰的海洋。</p>
+
+    <p>專家認為，這次勝利不僅是運動成就，也是提升全國士氣的象徵。中華隊的奪冠之路也將成為未來世代的激勵典範。</p>
+</article>
+
+<div class="footer">
+    <p>本新聞僅供娛樂用途，非實際事件報導。</p>
+</div>
+
+</body>
+</html>
